@@ -1,2 +1,10 @@
 # Student-Management-System-using-C-
-Student management system project solely done using C++ language. Performed CRUD operations in the project.
+Student management system project solely done using C++ language.
+FEATURES :
+1) ENTER RECORDS / ADD RECORDS
+2) UPDATE RECORDS
+3) DELETE RECORDS : a) ALL RECORDS
+4)                  b) SPECIFIC ROW ACCORDING TO USER INPUT
+5) SEARCH RECORDS ACCORDING TO USER INPUT
+6) DISPLAY RECORDS
+7) GIVES MESSAGE IF RECORDS ARE EMPTY.             
